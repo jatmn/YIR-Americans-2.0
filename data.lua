@@ -1,10 +1,10 @@
-
 require "util"
 
-require ("prototypes.subgroup")
+require ("prototypes.items")
+require ("prototypes.recipes")
+
 require ("prototypes.locomotive")
-require ("prototypes._wagon_cargo2a")
-require ("prototypes._wagon_cargo4a")
+require ("prototypes.wagons")
 
-
-
+require ("prototypes.entity_updates")
+require ("prototypes.technology")
