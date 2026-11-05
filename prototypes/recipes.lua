@@ -2,7 +2,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_emdf7a_mn", --Diesel 4
-		category = "yir_rc_wsl",
+		categories = { "yir_rc_wsl" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -19,7 +19,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_emdf7b_mn", --Diesel 4
-		category = "yir_rc_wsl",
+		categories = { "yir_rc_wsl" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -36,7 +36,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_emdf7a_cr", --Diesel 4
-		category = "yir_rc_wsl",
+		categories = { "yir_rc_wsl" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -53,7 +53,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_emdf7b_cr", --Diesel 4
-		category = "yir_rc_wsl",
+		categories = { "yir_rc_wsl" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -69,7 +69,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_es44cr", --Diesel 4
-		category = "yir_rc_wsl",
+		categories = { "yir_rc_wsl" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -86,7 +86,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_4a_container_cr",
-		category = "yir_rc_wsw",
+		categories = { "yir_rc_wsw" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -103,7 +103,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_4a_clean_cr",
-		category = "yir_rc_wsw",
+		categories = { "yir_rc_wsw" },
 		enabled = false,
 		energy_required = 10,
 		ingredients = {
@@ -120,7 +120,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "yir_wagon_caboose_cr",
-		category = "yir_rc_wsw",
+		categories = { "yir_rc_wsw" },
 		enabled = false,
 		energy_required = 5,
 		ingredients = {
